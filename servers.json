@@ -37,8 +37,8 @@
 "address": "https://anisette.seasi.dev"
 },
 {
-"name": "timvdhoorn",
-"address": "https://anisette-v3-server-sj4l.onrender.com"
+"name": "local",
+"address": "http://172.16.100.149:6969"
 }
 ]
 }
